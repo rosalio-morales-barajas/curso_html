@@ -1,0 +1,32 @@
+
+/* Selectores de etiquetas */
+body {
+    color: red; 
+}
+
+h1 {
+    color: goldenrod;
+    text-align: center;
+    background-color: black;
+}
+
+p {
+    background-color: yellow;
+}
+
+div {
+    background-color: aqua;
+}
+
+/* Selectores de clases*/
+.clase1 {
+    font-size: 20px;
+    background-color: aqua;
+}
+
+/* Selectores de id*/
+#pin{
+    background-color: blueviolet;
+    color: beige;
+    font-size: 25px;
+}
